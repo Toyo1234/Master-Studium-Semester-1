@@ -1,0 +1,9 @@
+Strecke	Start	Stop
+StreckeA	0	34
+StreckeB	35	56
+StreckeC	57	83
+StreckeD	84	107
+StreckeE	108	130
+StreckeF	131	162
+StreckeG	163	189
+StreckeH	190	204

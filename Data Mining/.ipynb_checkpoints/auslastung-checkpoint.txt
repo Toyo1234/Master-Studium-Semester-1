@@ -1,0 +1,7 @@
+Strecke	Ferien1	Ferien2	Werktag1	Werktag2
+StreckeA	11	45	60	74
+StreckeB	40	44	54	88
+StreckeC	96	77	28	38
+StreckeE	63	59	64	58
+StreckeF	75	66	36	19
+StreckeG	84	94	48	43
